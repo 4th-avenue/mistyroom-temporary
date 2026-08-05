@@ -3,5 +3,5 @@
 <br>
 <br>
 <br>
-**Blog Link**<br>
-숲속코딩 - [https://lab.mistyroom.com](https://lab.mistyroom.com)
+<b>Blog Link</b><br>
+숲속코딩 - <a href="https://lab.mistyroom.com">https://lab.mistyroom.com</a>
